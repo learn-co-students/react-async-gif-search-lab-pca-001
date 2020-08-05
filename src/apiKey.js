@@ -1,0 +1,1 @@
+export default KEY = '123abc';
