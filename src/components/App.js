@@ -2,7 +2,8 @@ import React from "react";
 import GifListContainer from "../containers/GifListContainer";
 import NavBar from "./NavBar";
 
-// the App component should render out the GifListContainer component
+// Tried to use https://www.npmjs.com/package/react-giphy-searchbox but I think there was
+// an issue with the versions
 
 const App = () => {
   return (

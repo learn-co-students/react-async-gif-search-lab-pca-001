@@ -1,1 +1,1 @@
-export default KEY = '123abc';
+module.exports = {key: '123abc'};
